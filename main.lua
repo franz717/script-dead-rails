@@ -1,14 +1,14 @@
 -- Boot Orion Library
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jensonhirst/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/GRPGaming/Key-System/refs/heads/Xycer-Hub-Script/ZusumeLib(Slider)')))()
 
 -- Create Window
 local Window = OrionLib:MakeWindow({
-    Name = "🚂 Dead Rails | Orion Hub",
+    Name = "DeadRails",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "DeadRailsConfig",
     IntroEnabled = true,
-    IntroText = "Welcome to Orion Hack Menu",
+    IntroText = "Script DR GG By franzzff",
     IntroIcon = "rbxassetid://7733960981",
     Icon = "rbxassetid://7733960981"
 })
